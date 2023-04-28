@@ -15,7 +15,7 @@
 // Ciclare solo gli indici dispari dell'array summedWards, cosi' da poter confrontare le spese, quindi partendo da 3 a summedWards.lenght - 1, con un incremento di i + 2 
     // Se la somma delle spese (elemento dell'array) attuale e' maggiore di more, modificare more con la somma delle spese attuale e moreName con il nome del reparto attuale
     // Se la somma delle spese attuale e' minore di less, modificare less con la somma delle spese attuale e lessName con il nome del reparto attuale
-// Ritornare un array con due oggetti, il primo con il reparto con la maggiore spesa, il secono con il reparto con la maggiore spesa
+// Ritornare un array con due oggetti, il primo con il reparto con la maggiore spesa, il secondo con il reparto con la maggiore spesa
 
 const input = `
 

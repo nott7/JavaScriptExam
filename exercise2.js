@@ -4,7 +4,7 @@
 // Creare due variabili firstConjugation e lastConjugation che ritornano true se la rispettivamente la prima o l'ultima parola hanno una coniugazione nelle ultime tre lettere (controllato tramite il metodo substring per prendere gli ultimi 3 caratteri)
 // Creare due variabili hasCthulhu e hasSubject che partono da false
 
-// Ciclare strArray da 0 a strArray - 1
+// Ciclare strArray da 0 a strArray.length - 1
 // Se ciclando trova una stringa contenente "Church" o  "mare" ritornare false
 // Sennó controllare se word e' Cthulhu, se si modificare la variabile hasCthulhu a true
 // Controllare anche se word é un soggetto tramite il metodo has dei set, se trova un soggetto modificare la variabile hasSubject a true
